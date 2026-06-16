@@ -95,3 +95,7 @@ src/
 ## Fingerprint data
 
 Subdomain-takeover fingerprints are fetched at runtime from [can-i-take-over-xyz](https://github.com/EdOverflow/can-i-take-over-xyz), cached for 24h at `~/.cache/mailrecon/`, with a vendored fallback so a broken upstream never kills a run.
+
+## License
+
+MIT
